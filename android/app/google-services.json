@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "765876663533",
+    "firebase_url": "https://re-e9b5b-default-rtdb.firebaseio.com",
+    "project_id": "re-e9b5b",
+    "storage_bucket": "re-e9b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765876663533:android:f27f4b7275cf194c5c48e4",
+        "android_client_info": {
+          "package_name": "com.example.resecure_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765876663533-e6l9a9s3d61mndft5b56se2k6hpb784s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resecure_camera",
+            "certificate_hash": "4cae3d1b374b56daac29c12c45bf5c1aada47c24"
+          }
+        },
+        {
+          "client_id": "765876663533-jkapfuedmvisgtuirsd24a86s40b3te8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resecure_camera",
+            "certificate_hash": "80220f401c6088f1e6fd92805c65003a226a4cb1"
+          }
+        },
+        {
+          "client_id": "765876663533-tmei2qhomt8pg24ls3j3bmdi728jpvhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwBxivXZqLBRXOdqFnBSrqVnrCZxxFyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765876663533-tmei2qhomt8pg24ls3j3bmdi728jpvhd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765876663533-pg5lga1a6nveb438l5mseuoftpjq8fiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resecureCamera"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765876663533:android:b0b5f58adb637b955c48e4",
+        "android_client_info": {
+          "package_name": "com.example.resecure_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765876663533-mapsp1r92d5tvdji26dcagcoj3bddo5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resecure_user",
+            "certificate_hash": "80220f401c6088f1e6fd92805c65003a226a4cb1"
+          }
+        },
+        {
+          "client_id": "765876663533-tmei2qhomt8pg24ls3j3bmdi728jpvhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwBxivXZqLBRXOdqFnBSrqVnrCZxxFyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765876663533-tmei2qhomt8pg24ls3j3bmdi728jpvhd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765876663533-pg5lga1a6nveb438l5mseuoftpjq8fiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resecureCamera"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
