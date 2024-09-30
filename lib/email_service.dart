@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class EmailService {
-  final String _apiKey = 'YOUR API KEY'; // Replace with your SendGrid API key
+  
 
   Future<void> sendEmail(String toEmail, String subject, String body) async {
     final url = Uri.parse('https://api.sendgrid.com/v3/mail/send');
